@@ -26,7 +26,7 @@ There are 3 columns to be filled for the forecast:
 
 3.  Incidence (Upper 95th Confidence Interval)
 
-***Note: Data is missing for "Bournemouth", "City of London", and "Isles of Scilly". These councils are therefore optional***
+***Note: Data is missing for "Bournemouth", "City of London", and "Isles of Scilly". These councils are therefore optional.***
 
 ## Joining the contest & Getting Started
 
