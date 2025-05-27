@@ -52,7 +52,7 @@ Here are some covariates that might be an interesting starting point:
 -   All entries must be loaded into a public Github repo.
 -   All entries must follow the submission formats outlined below.
 -   All entries must include a max 1000 word report to accompany the forecast analyses. This can be as a separate PDF/hmtl or incorporated into a quarto/jupyter notebook.
--   All submissions must be complete by Friday 30th May 2025.
+-   All submissions must be complete by Friday 27th June 2025.
 
 ## How to Win!
 
