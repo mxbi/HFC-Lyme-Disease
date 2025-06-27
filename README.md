@@ -1,5 +1,7 @@
 # SPHERE-PPL Health Forecasting Contest - UK Lyme Disease
 
+**Submission**: See [submission/report.ipynb](submission/report.ipynb)
+
 ## Introduction[^readme-1]
 
 [^readme-1]: Adapted from UKHSA Website (<https://www.gov.uk/government/publications/lyme-borreliosis-epidemiology/lyme-borreliosis-epidemiology-and-surveillance>)
@@ -81,3 +83,12 @@ You can join our Zulip [here](https://sphereppl.zulipchat.com/join/olwtpi7g3wbyh
 Unless otherwise noted, the content in this repository is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 For the data sets in the *data/* folder, please see [*data/README.md*](data/README.md) for the applicable copyrights and licenses.
+
+### Licenses for forked content
+
+report.ipynb and hadgrid_extract_local.py are released under the CC-BY-NC-SA 4.0 license.
+
+Data in `Local_Authority_Districts_December_2024_Boundaries_UK_BGC_9075602114651001607` are reproduced under the Open Government License (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). 
+Source: Office for National Statistics licensed under the Open Government Licence v.3.0
+
+Data in `hadgrid-local` are also reproduced under the Open Government License v3.0, and are from the Met Office's HadUK-Grid dataset. `lad_climate_data_2017_2024_extended.csv` is derived from the HadUK-Grid dataset and released under the same license.
